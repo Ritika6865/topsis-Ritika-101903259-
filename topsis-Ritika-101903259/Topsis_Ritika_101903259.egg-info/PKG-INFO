@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Topsis-Ritika-101903259
+Version: 0.1
+Summary: Topsis in python which takes csv file as input and also outputs csv file
+Home-page: https://github.com/Ritika6865/topsis-Ritika-101903259.git
+Author: Ritika Kapoor
+Author-email: ritikakapoor6865@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
